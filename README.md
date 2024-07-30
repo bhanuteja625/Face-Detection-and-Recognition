@@ -68,5 +68,5 @@ The project report contains detailed analysis and comparison of model performanc
 
 
 ## Acknowledgements
-PyTorch for providing the deep learning framework.
-The creators of YOLOv5 and ResNet for their contributions to the field.
+1. PyTorch for providing the deep learning framework.
+2. The creators of YOLOv5 and ResNet for their contributions to the field.
